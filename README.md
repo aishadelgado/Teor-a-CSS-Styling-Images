@@ -26,17 +26,12 @@ En este caso solamente le he pedido que me centre la imágen.
 
 #### Cambiar la medida de la imagen
 Para cambiar la medida de la imagen utilizaremos el "width" y "height", que son los respectivos ancho y alto.
-```.styled-image img {
-    width: 280px;
-    height: 200px;
-}
 ```
-<style>
-<img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/GitHub.jpg">
 .styled-image img {
     width: 280px;
     height: 200px;
 }
-</style>
+```
+<img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/GitHub.jpg" width: 280px height: 200px>
 ----------
 
