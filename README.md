@@ -31,6 +31,12 @@ Para cambiar la medida de la imagen utilizaremos el "width" y "height", que son 
     height: 200px;
 }
 ```
-<img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/GitHub.jpg" width="50%">
+<style>
+<img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/GitHub.jpg">
+.styled-image img {
+    width: 280px;
+    height: 200px;
+}
+</style>
 ----------
 
